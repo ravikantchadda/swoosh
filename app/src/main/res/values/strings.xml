@@ -13,6 +13,7 @@
     <string name="get_started">GET STARTED</string>
     <string name="i_am_a">I am a:</string>
     <string name="finish">FINISH</string>
-    <string name="beginner">BEGINNER</string>
     <string name="baller">BALLER</string>
+    <string name="search_league_text">Looking for co-ed beginner near you....</string>
+    <string name="beginner">BEGINNER</string>
 </resources>
