@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.development.swoosh.MainActivity">
+    tools:context="com.development.swoosh.WelcomeActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -35,7 +35,7 @@
         android:layout_height="57dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="80dp"
         android:fontFamily="@font/montserrat"
         android:text="GO ALL IN"
         android:textColor="@android:color/white"
